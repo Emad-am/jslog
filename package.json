@@ -1,0 +1,25 @@
+{
+  "name": "jslog",
+  "version": "0.0.1",
+  "description": "jslog for personal use",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "git+https://github.com/Emad-am/jslog.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "author": "Emad Amiripour",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Emad-am/jslog/issues"
+  },
+  "homepage": "https://github.com/Emad-am/jslog#readme"
+}
